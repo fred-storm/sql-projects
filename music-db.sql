@@ -6,11 +6,11 @@ Date: 29 Jan 2026
 */
 
 -- Create the DB
-Create DATABASE musicdb;
+Create DATABASE music;
 GO
 
 -- Switch to new DB
-USE musicdb;
+USE music;
 GO
 
 /* Now I will create all the things I need in the 
