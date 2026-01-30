@@ -15,3 +15,18 @@ GO
 
 /* Now I will create all the things I need in the 
 database to suit my needs */
+
+--Create first table
+Create table Format();
+
+-- Create Genre table
+Create table Genre();
+
+--Create the Artist table
+Create table Artist();
+
+-- Create Album table
+Create table Album();
+
+-- Create Song table
+Create table Song();
